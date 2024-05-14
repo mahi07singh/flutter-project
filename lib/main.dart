@@ -18,7 +18,7 @@ void main() {
       'verifyOtp': (context) => const VerifyOtp(),
       'createNewPassword': (context) => const CreateNewPassword(),
       'home': (context) => const HomeScreen(),
-      'setting': (context) => const SettingScreen(),
+      'setting': (context) => const SettingScreen()
     },
   ));
 }
